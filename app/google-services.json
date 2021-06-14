@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583713773890",
+    "project_id": "ceng-427-mobile",
+    "storage_bucket": "ceng-427-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583713773890:android:e3531fd329b67ab6fdd0db",
+        "android_client_info": {
+          "package_name": "com.nomadapps.nomad.watchlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583713773890-umfod5bbisqivd9njvlbibl0lfj5de6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANP_9NZC7uQ3B1svDdkBKacWGsGmtGNu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583713773890-umfod5bbisqivd9njvlbibl0lfj5de6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
